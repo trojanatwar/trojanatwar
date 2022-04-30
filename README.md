@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shriniwas
 - 👀 I’m interested in Backend develpemnt using Python
-- 🌱 I’m currently learning Docker, kubernetes and CI/CD
+
 
 <!---
 trojanatwar/trojanatwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
